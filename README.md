@@ -4,7 +4,7 @@ This app takes a column and creates a *'you choose with'* separated list.
 
 ## Usecase
 Write the separator you want to use (keep in mind that it also takes the space as value). Then write or paste the column you want to transform it into a row.
-After the last input, press enter and then Command + D.
+After the last input, press enter and then Control + D (^D).
 
 ## Example:
 
